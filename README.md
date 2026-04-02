@@ -1,4 +1,4 @@
-#  GCP Cloud Storage Security Lab
+#  GCP Cloud Storage Security 
 
 This project demonstrates hands-on experience with Google Cloud Storage, focusing on security, encryption, lifecycle management, and versioning.
 
